@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/zack/reactApp/announcement/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/zack/reactApp/announcement/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
